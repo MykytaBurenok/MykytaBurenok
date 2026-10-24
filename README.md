@@ -161,13 +161,3 @@ Professional theatre and cinema acting, live performance, collaboration, adaptab
   <a href="https://www.instagram.com/nikitaburenok/"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://www.threads.com/@nikitaburenok"><img src="https://img.shields.io/badge/Threads-Follow-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads"></a>
 </p>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MykytaBurenok&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MykytaBurenok&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
