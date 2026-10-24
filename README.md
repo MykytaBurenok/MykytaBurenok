@@ -132,7 +132,7 @@ A responsive weather application with city search, current conditions, and multi
 
 ### Bachelor Degree
 
-Creative background in theatre and cinema, with experience that supports communication, collaboration, adaptability, and storytelling.
+Creative background that supports communication, collaboration, adaptability.
 
 ### Full-Stack JavaScript Development
 
