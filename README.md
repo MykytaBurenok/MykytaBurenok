@@ -1,4 +1,4 @@
-#Hi there, I'm Mykyta Burenok
+# Hi there, I'm Mykyta Burenok
 
 <p align="center">
   <b>Frontend / Full-Stack Developer</b> • Berlin, Germany
